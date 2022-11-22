@@ -14,6 +14,7 @@ https://data.wprdc.org/dataset/allegheny-county-jail-daily-census
 
 Arrest Dataset:
 https://data.wprdc.org/dataset/arrest-data
+
 Looks at the amount of arrests in every Pittsburgh Neighborhood
 
 Accidental Overdose Dataset:
