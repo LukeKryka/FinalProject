@@ -13,6 +13,7 @@ Meagan Meyer: mam115@pitt.edu
 
 Jail Daily Census Dataset:
 https://data.wprdc.org/dataset/allegheny-county-jail-daily-census
+
 This data set looks at the number and location of prisoners in allegeny county. 
 
 Arrest Dataset:
