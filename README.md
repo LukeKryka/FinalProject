@@ -12,7 +12,7 @@ Meagan Meyer: mam115@pitt.edu
 **Datasets**
 
 Police Incident Blotter Census Dataset:
-https://data.wprdc.org/dataset/allegheny-county-jail-daily-census
+https://data.wprdc.org/dataset/police-incident-blotter
 
 This data set looks at the number and location of prisoners in allegeny county. 
 
