@@ -1,6 +1,4 @@
 
-# Park Submetric 
-
 # Arrest Submetric
 The metric I chose was the amount of arrests per neighborhoods. The dataset I used was already between the years 2016-2022, so I decided to use all the data and only display the top neighborhoods with the least amount of arrests.
 
