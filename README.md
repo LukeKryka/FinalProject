@@ -22,7 +22,9 @@ https://data.wprdc.org/dataset/arrest-data
 
    - This dataset looks at the amount of arrests in every Pittsburgh Neighborhood.
 
-Parks
+Parks:
 https://data.wprdc.org/dataset/parks
+
+   - This dataset looks at the number of parks in every Pittsburgh Neighborhood.
 
 This repository holds all the data and conclusions for determining the Safest Neighborhood in Pittsburgh as assigned for the final project of class CMPINF 0010.
