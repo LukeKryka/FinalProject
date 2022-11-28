@@ -1,8 +1,6 @@
 # General Introduction
 In this project for Big Ideas in computing and information we are determining the safest neighborhood within Pittsburgh. 
 
-# Park Introduction
-
 # Arrest Introduction 
 For my dataset I decided to look at the number of arrests throughout the Pittsburgh neighborhoods starting in 2016 and continuing to the present-day. Since this dataset is already pretty recent, I decided to include all of the entries in my analysis. Ultimately since there are still a lot of neighborhoods, I decided to only display the top 20 neighborhoods with the least amount of arrests. 
 
