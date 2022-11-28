@@ -21,10 +21,10 @@ https://data.wprdc.org/dataset/arrest-data
 
 Looks at the amount of arrests in every Pittsburgh Neighborhood
 
-Accidental Overdose Dataset:
-https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses
+Parks
+https://data.wprdc.org/dataset/parks
 
-Demonstrates the total amount and location of overdoses that were not ruled a suicide.
+Explain
 
 This repository holds all the data and conclusions for determining the Safest Neighborhood in Pittsburgh as assigned for the final project of class CMPINF 0010.
 Hello
