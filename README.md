@@ -1,14 +1,14 @@
 # Final Project CMPINF 0010
 
-**Team Name**
+**Team Name: Group 6**
 
 **Group Members**
 
-Morgan Wessner : mgw42@pitt.edu
+Morgan Wessner : mgw42@pitt.edu ( Arrest Dataset )
 
-Luke Kryka: lfk7@pitt.edu
+Luke Kryka: lfk7@pitt.edu ( Police Incident Blotter Census Dataset )
 
-Meagan Meyer: mam115@pitt.edu
+Meagan Meyer: mam115@pitt.edu ( Park Dataset )
 
 **Datasets**
 
