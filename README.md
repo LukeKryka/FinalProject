@@ -15,7 +15,7 @@ Meagan Meyer: mam115@pitt.edu ( Park Dataset )
 Police Incident Blotter Census Dataset:
 https://data.wprdc.org/dataset/police-incident-blotter
 
-   - This dataset looks at the number and location of prisoners in Allegeny County. 
+   - This dataset looks at the number of crimes and location the crimes take place. 
 
 Arrest Dataset:
 https://data.wprdc.org/dataset/arrest-data
