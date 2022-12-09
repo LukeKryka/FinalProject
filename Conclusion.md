@@ -6,3 +6,4 @@ Once I organized the data to see which neighborhoods committed the least crimes 
 Based on all the data provided, Mt. Oliver Neighborhood seems to be the safest neighborhood in Pittsburgh. The least amount of arrests and crime occurred in this neighborhood meaning it topped two out of three of the submetrics. Since I am not from Pittsburgh, my favorite neighborhood and really the only one I know is Central Oakland. I don't have enough insight to compare the two neighborhoods, but based on the data I believe Mt. Oliver Neighborhood is a great place to live.
 
 # Park Conclusion
+As my data was very self explanatory, it was pretty easy to determine which neighborhood was the safest, regarding the quantity of parks within it. THe top three neighborhoods were East Liberty, Central Business District, and Beechview meaning that they had the most parks within our dataset, which the top park, which was East Liberty, having 12 parks total.
